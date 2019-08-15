@@ -1,0 +1,9 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = true
+	symlinks = false
+	ignorecase = true
+[remote "cpnatal2"]
+	url = https://github.com/Sempla/CPNATAL2
+	fetch = +refs/heads/*:refs/remotes/cpnatal2/*
